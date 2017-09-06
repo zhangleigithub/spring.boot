@@ -13,6 +13,7 @@ import com.lowagie.text.pdf.PdfWriter;
 
 public class UserPDFView extends AbstractPdfView {
 
+	@Override
 	protected void buildPdfDocument(Map<String, Object> model, Document document, PdfWriter pdfWriter,
 			HttpServletRequest request, HttpServletResponse response) throws Exception {
 
