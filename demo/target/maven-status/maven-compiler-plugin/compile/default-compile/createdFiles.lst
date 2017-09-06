@@ -1,7 +1,0 @@
-com\example\demo\DemoApplication.class
-com\example\demo\controller\PagController.class
-com\example\demo\dao\PersonDao.class
-com\example\demo\entities\Person.class
-com\example\demo\service\PersonService.class
-com\example\demo\service\PersonServiceImpl.class
-com\example\demo\controller\PersonController.class

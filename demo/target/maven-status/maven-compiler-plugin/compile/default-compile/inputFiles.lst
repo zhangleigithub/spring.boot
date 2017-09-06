@@ -1,7 +1,12 @@
 C:\Users\zhanglei\workspace\demo\src\main\java\com\example\demo\DemoApplication.java
+C:\Users\zhanglei\workspace\demo\src\main\java\com\example\demo\controller\PdfViewController.java
 C:\Users\zhanglei\workspace\demo\src\main\java\com\example\demo\dao\PersonDao.java
 C:\Users\zhanglei\workspace\demo\src\main\java\com\example\demo\controller\PersonController.java
 C:\Users\zhanglei\workspace\demo\src\main\java\com\example\demo\entities\Person.java
+C:\Users\zhanglei\workspace\demo\src\main\java\com\example\demo\controller\XlsViewController.java
+C:\Users\zhanglei\workspace\demo\src\main\java\com\example\demo\view\SampleXlsView.java
 C:\Users\zhanglei\workspace\demo\src\main\java\com\example\demo\service\PersonServiceImpl.java
+C:\Users\zhanglei\workspace\demo\src\main\java\com\example\demo\MyWebAppConfigurer.java
 C:\Users\zhanglei\workspace\demo\src\main\java\com\example\demo\controller\PagController.java
 C:\Users\zhanglei\workspace\demo\src\main\java\com\example\demo\service\PersonService.java
+C:\Users\zhanglei\workspace\demo\src\main\java\com\example\demo\view\SamplePdfView.java
