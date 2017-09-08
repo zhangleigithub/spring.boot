@@ -1,5 +1,6 @@
 package com.example.demo;
 
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
@@ -17,10 +18,13 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @SpringBootApplication
 public class DemoApplication {
 
+	 @Value("${name}")
+	 private String name;
+	
 	@RequestMapping("/")
     @ResponseBody
     String home() {
-        return "Wecome Spring boot.";
+        return "Wecome Spring boot."+name;
     }
 	
 	@RequestMapping("indexPage")
